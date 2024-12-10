@@ -18,7 +18,7 @@ Using GeoServer, a powerful map server, this project incorporates the following 
 
 
 ### Interactive Map  
-![Map Interface](images/Interface.png)
+![Map Interface](Images/Interface.png)
  
 
 
